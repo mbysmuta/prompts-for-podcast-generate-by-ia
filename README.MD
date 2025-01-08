@@ -1,7 +1,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
-> ℹ️ **NOTE:** Repositório original pertence ao curso "Criando um podcast com IAs generativas da plataforma [DIO](https://dio.me).
+> ℹ️ **NOTE:** Repositório original pertence ao curso "Criando um podcast com IAs generativas" da plataforma [DIO](https://dio.me).
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
